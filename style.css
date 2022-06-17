@@ -27,7 +27,7 @@ header{
 }
 
 #card{
-    padding: 25px;
+    padding: 50px;
     background-color: var(--colorWhite);
     height: 250px;
     width: 80%;
@@ -40,12 +40,14 @@ header{
     gap: 25px;
 }
 
-
-
 img{
     width: 200px;
     height: 200px;
     border-radius: 100%;
+}
+
+p{
+    text-align: center;
 }
 
 footer{
