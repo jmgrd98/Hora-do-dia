@@ -6,10 +6,6 @@
     font-family: 'Arial'
 }
 
-:root{
-    --backgroundColor: rgb(85, 53, 161);
-    --colorWhite: white;
-}
 
 body{
     padding: 100px;
@@ -28,7 +24,7 @@ header{
 
 #card{
     padding: 50px;
-    background-color: var(--colorWhite);
+    background-color: white;
     height: 250px;
     width: 80%;
     border-radius: 20px;
