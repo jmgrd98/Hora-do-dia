@@ -6,7 +6,7 @@ let data = new Date();
 let hora = data.getHours();
 mensagem.innerHTML= `Agora são ${hora} horas.`
 
-if(hora >= 0 && hora < 12){
+if(hora >= 6 && hora < 12){
     foto.src = "manha.jpg";
 }
 

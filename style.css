@@ -50,4 +50,6 @@ img{
 
 footer{
     color: var(--colorWhite);
+    text-align: center;
+    font-weight: bolder;
 }
